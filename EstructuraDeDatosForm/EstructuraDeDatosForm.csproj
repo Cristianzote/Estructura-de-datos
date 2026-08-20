@@ -8,4 +8,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Actividades\NewFolder\**" />
+    <EmbeddedResource Remove="Actividades\NewFolder\**" />
+    <None Remove="Actividades\NewFolder\**" />
+  </ItemGroup>
+
 </Project>

@@ -58,6 +58,7 @@ namespace EstructuraDeDatosForm.Actividades
 
                     Donation donation = new Donation(code, donor, value, destiny, type);
                     donationList.AddLast(donation);
+                    MessageBox.Show("Donación registrada");
                     break;
 
                 //Mostrar registros
@@ -69,36 +70,30 @@ namespace EstructuraDeDatosForm.Actividades
                 case 2:
                     int delCode = int.Parse(Interaction.InputBox("Dijite codigo que desea eliminar: "));
                     Donation? data2;
-                    /*foreach (Donation d in donationList)
-                    {
-                        if (delCode == d.GetCode())
-                        {
-                            donationList.Remove(d);
-                            break;
-                        }
-                    }*/
-                    for (int i = 0; i < donationList.Size(); i++)
+                    /*for (int i = 0; i < donationList.Size(); i++)
                     {
                         data2 = donationList.getPos(i).GetData() as Donation;
                         if (data2.GetCode().Equals(delCode))
                         {
                             donationList.DeletePos(i);
                         }
+                    }*/
+
+                    if (donationList.Delete(delCode))
+                    {
+                        MessageBox.Show("Donación eliminada");
                     }
-                    break;
+                    else
+                    {
+                        MessageBox.Show("Donación no encontrada");
+                    }
+                        break;
 
                 //Listar por destino
                 case 3:
                     string showDestiny = Interaction.InputBox("Dijite destino: ");
                     string msgDestiny = "";
                     Donation? data3;
-                    /*foreach (Donation d in donationList)
-                    {
-                        if (showDestiny == d.GetDestiny())
-                        {
-                            msgDestiny += d.ToString();
-                        }
-                    }*/
 
                     for (int i = 0; i < donationList.Size(); i++)
                     {
@@ -115,10 +110,6 @@ namespace EstructuraDeDatosForm.Actividades
                 case 4:
                     float totalValue = 0;
                     Donation? data4;
-                    /*foreach (Donation d in donationList)
-                    {
-                        totalValue += d.GetValue();
-                    }*/
 
                     for (int i = 0; i < donationList.Size(); i++)
                     {
@@ -130,40 +121,41 @@ namespace EstructuraDeDatosForm.Actividades
 
                 //Determinar porcentaje de donaciones por destino
                 case 5:
-                    string percentDestiny = Interaction.InputBox("Dijite destino: ");
+                    string msgDest="";
                     int amountDestiny = 0;
                     Donation? data5;
-                    /*foreach (Donation d in donationList)
-                    {
-                        if (percentDestiny == d.GetDestiny())
-                        {
-                            amountDestiny++;
-                        }
-                    }*/
+                    string[] destinies = { };
 
+                    //Obtener lista de destinos
                     for (int i = 0; i < donationList.Size(); i++)
                     {
                         data5 = donationList.getPos(i).GetData() as Donation;
-                        if(data5.GetDestiny() == percentDestiny)
+                        if (!destinies.Contains(data5.GetDestiny()))
                         {
-                            amountDestiny++;
+                            destinies.Append(data5.GetDestiny());
                         }
                     }
-                    MessageBox.Show($"Porcentaje de donaciones de {percentDestiny}: {(amountDestiny/ donationList.Size())*100}%");
+                    //Determinar cantidad de donaciones por destino
+                    for (int i = 0; i < destinies.Length; i++)
+                    {
+                        amountDestiny = 0;
+                        for (int j = 0; j < donationList.Size(); j++)
+                        {
+                            data5 = donationList.getPos(j).GetData() as Donation;
+                            if(data5.GetDestiny() == destinies[i])
+                            {
+                                amountDestiny++;
+                            }
+                        }
+                        msgDest += $"Donaciones de {destinies[i]}: {amountDestiny}/{destinies.Length} ({(amountDestiny / donationList.Size()) * 100}%)\n";
+                    }
+                    MessageBox.Show(msgDest);
                     break;
 
                 //Eliminar donaciones cuyo tipo sea otro
                 case 6:
                     int delAmount = 0;
                     Donation? data6;
-                    /*foreach (Donation d in donationList)
-                    {
-                        if ("Otro" == d.GetDonationType())
-                        {
-                            donationList.Remove(d);
-                            delAmount++;
-                        }
-                    }*/
                     for (int i = 0; i < donationList.Size(); i++)
                     {
                         data6 = donationList.getPos(i).GetData() as Donation;

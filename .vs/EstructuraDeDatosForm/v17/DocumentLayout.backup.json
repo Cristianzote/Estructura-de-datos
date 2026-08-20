@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\Estructura-de-datos-main\\2\\Estructura-de-datos\\",
+  "WorkspaceRootPath": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|c:\\users\\salas\\documents\\maricadas de cristian\\estructura-de-datos-main\\2\\estructura-de-datos\\estructuradedatosform\\actividades\\actividad1terremoto\\actividad1terremotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|c:\\users\\salas\\documents\\maricadas de cristian\\estructuradedatosform\\estructuradedatosform\\actividades\\actividad1terremoto\\actividad1terremotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad1terremoto\\actividad1terremotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|c:\\users\\salas\\documents\\maricadas de cristian\\estructura-de-datos-main\\2\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio1lista\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio1lista\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|c:\\users\\salas\\documents\\maricadas de cristian\\estructuradedatosform\\estructuradedatosform\\ejercicios\\ejercicio1lista\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio1lista\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|c:\\users\\salas\\documents\\maricadas de cristian\\estructura-de-datos-main\\2\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio1lista\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio1lista\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|c:\\users\\salas\\documents\\maricadas de cristian\\estructuradedatosform\\estructuradedatosform\\actividades\\actividad1terremoto\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad1terremoto\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|c:\\users\\salas\\documents\\maricadas de cristian\\estructuradedatosform\\estructuradedatosform\\ejercicios\\ejercicio1lista\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio1lista\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,42 +33,58 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\Estructura-de-datos-main\\2\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
-              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
-              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\Estructura-de-datos-main\\2\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
-              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T11:57:51.881Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "List.cs",
-              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\Estructura-de-datos-main\\2\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
-              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
-              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\Estructura-de-datos-main\\2\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
-              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T17:15:52.744Z",
+              "WhenOpened": "2026-08-20T17:15:04.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Actividad1TerremotoForm.cs",
-              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\Estructura-de-datos-main\\2\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
               "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
-              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\Estructura-de-datos-main\\2\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
               "RelativeToolTip": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswEwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwJUAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T19:10:50.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T11:57:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs*",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs*",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAkwAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:15:52.744Z",
               "EditorCaption": ""
             }
           ]

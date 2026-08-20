@@ -1,4 +1,5 @@
 using EstructuraDeDatosForm.Actividades;
+using EstructuraDeDatosForm.Actividades.Actividad2Universidad;
 using EstructuraDeDatosForm.Ejercicio1Lista;
 
 namespace EstructuraDeDatosForm
@@ -27,6 +28,9 @@ namespace EstructuraDeDatosForm
 
                 case "Actividad1: Terremoto":
                     new Actividad1TerremotoForm().Show();
+                    break;
+                case "Actividad2: Universidad":
+                    new Actividad2UniversidadForm().Show();
                     break;
                 default: break;
             }

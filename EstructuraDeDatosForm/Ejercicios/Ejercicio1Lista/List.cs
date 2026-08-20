@@ -1,8 +1,10 @@
-﻿using System;
+﻿using EstructuraDeDatosForm.Actividades.Actividad1Terremoto;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace EstructuraDeDatosForm.Ejercicios.Ejercicio1Lista
 {
@@ -46,7 +48,7 @@ namespace EstructuraDeDatosForm.Ejercicios.Ejercicio1Lista
             return last;
         }
 
-        public void AddLast(Object data)
+        public void AddLast(object data)
         {
             if (isEmpty())
             {
@@ -199,6 +201,81 @@ namespace EstructuraDeDatosForm.Ejercicios.Ejercicio1Lista
                 pre.SetLink(aux.GetLink());
                 return true;
             }
+        }
+
+        public void AddDonation(Donation don)
+        {
+            if (isEmpty())
+                head = new Node(don);
+            else
+            {
+                Node aux = head;
+                Donation? donation = aux.GetData() as Donation;
+                while (aux != null &&
+                        donation.GetValue() > don.GetValue())
+                    aux = aux.GetLink();
+                if (aux != null)
+                {
+                    Node pre = Previous(aux);
+                    if (pre == null)
+                        AddFirst(don);
+                    else
+                    {
+                        Node n = new Node(don);
+                        pre.SetLink(n);
+                        n.SetLink(aux);
+                    }
+                }
+                else
+                    AddLast(don);
+            }
+        }
+
+        public bool Delete(int code)
+        {
+            //Recorremos la lista buscando el elemento a eliminar
+            Node aux = head;
+            Donation don = aux.GetData() as Donation;
+            while (aux != null && don.GetCode() != code)
+                aux = aux.GetLink();
+
+            if (aux != null)
+            {
+                Node pre = Previous(aux);
+                if (pre == null)
+                    return DeleteFirst();
+                else
+                    pre.SetLink(aux.GetLink());
+                return true;
+            }
+            return false;
+        }
+
+        public List LDestination(string dest)
+        {
+            List ldest = new List();
+            Node aux = head;
+            Donation don = aux.GetData() as Donation;
+            while (aux != null)
+            {
+                if (don.GetDestiny() == dest)
+                    ldest.AddLast(aux.GetData()); //dado el ejercicio se puede utilizar cualquier adicionar
+                aux = aux.GetLink();
+            }
+            return ldest;
+        }
+
+        public float Total()
+        {
+            float total = 0;
+            Node aux = head;
+            Donation? don = aux.GetData() as Donation;
+            while (aux != null)
+            {
+                total += don.GetValue();
+                aux = aux.GetLink();
+            }
+            return total;
         }
     }
 }

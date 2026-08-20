@@ -4,6 +4,9 @@
     <Compile Update="Actividades\Actividad1Terremoto\Actividad1TerremotoForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Actividades\Actividad2Universidad\Actividad2UniversidadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Ejercicios\Ejercicio1Lista\ListsForm.cs">
       <SubType>Form</SubType>
     </Compile>
