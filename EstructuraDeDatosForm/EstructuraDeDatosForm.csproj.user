@@ -7,7 +7,13 @@
     <Compile Update="Actividades\Actividad2Universidad\Actividad2UniversidadForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Actividades\Actividad3ConsultorioMatematico\Actividad3ConsultorioMatematicoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Ejercicios\Ejercicio1Lista\ListsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ejercicios\Ejercicio2ListaDoble\DoubleListsForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="MainForm.cs">
