@@ -1,6 +1,8 @@
 using EstructuraDeDatosForm.Actividades;
 using EstructuraDeDatosForm.Actividades.Actividad2Universidad;
 using EstructuraDeDatosForm.Ejercicio1Lista;
+using EstructuraDeDatosForm.Ejercicios.Ejercicio2ListaDoble;
+using EstructuraDeDatosForm.Ejercicios.Ejercicio3Pilas;
 
 namespace EstructuraDeDatosForm
 {
@@ -31,6 +33,12 @@ namespace EstructuraDeDatosForm
                     break;
                 case "Actividad2: Universidad":
                     new Actividad2UniversidadForm().Show();
+                    break;
+                case "Ejercicio2: Listas dobles":
+                    new DoubleListsForm().Show();
+                    break;
+                case "Ejercicio3: Pilas":
+                    new StackForm().Show();
                     break;
                 default: break;
             }

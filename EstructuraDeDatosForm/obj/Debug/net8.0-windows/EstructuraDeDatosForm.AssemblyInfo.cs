@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstructuraDeDatosForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e009bbab01072a0447869ddd8245526a1938cbaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30646b03b6332a26a5fbe1c1d844375c2b70689a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstructuraDeDatosForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstructuraDeDatosForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
