@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\actividades\\prequiz2java.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\prequiz2java.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio3pilas\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio3pilas\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio3pilas\\managerstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio3pilas\\managerstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio4colas\\queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio4colas\\queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio4colas\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio4colas\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio4colas\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio4colas\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio2listadoble\\doublelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio2listadoble\\doublelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio2listadoble\\doublenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio2listadoble\\doublenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\actividades\\actividad2universidad\\actividad2universidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad2universidad\\actividad2universidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\estructuradedatosform\\actividades\\actividad2universidad\\actividad2universidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad2universidad\\actividad2universidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\actividades\\actividad2universidad\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad2universidad\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\actividades\\actividad1terremoto\\actividad1terremotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad1terremoto\\actividad1terremotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio1lista\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio1lista\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\estructuradedatosform\\actividades\\actividad1terremoto\\actividad1terremotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad1terremoto\\actividad1terremotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\actividades\\actividad1terremoto\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\actividades\\actividad1terremoto\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|d:\\visual proyects\\estructura-de-datos\\estructura-de-datos\\estructura-de-datos\\estructuradedatosform\\ejercicios\\ejercicio1lista\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4555B30-68B0-4EEC-8FCA-37EF57B1232F}|EstructuraDeDatosForm\\EstructuraDeDatosForm.csproj|solutionrelative:estructuradedatosform\\ejercicios\\ejercicio1lista\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prequiz2Java.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\prequiz2Java.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\prequiz2Java.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\prequiz2Java.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Actividades\\prequiz2Java.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:50:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\Stack.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\Stack.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\Stack.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\Stack.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:34:08.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Process.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Process.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Process.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Process.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Process.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:31:27.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Queue.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Queue.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Queue.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\Queue.cs",
+              "ViewState": "AgIAAA8AAADAxydk560wwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:29:35.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueManager.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\QueueManager.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\QueueManager.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\QueueManager.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio4Colas\\QueueManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:28:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerStack.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\ManagerStack.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\ManagerStack.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\ManagerStack.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio3Pilas\\ManagerStack.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:28:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoubleNode.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleNode.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleNode.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleNode.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleNode.cs",
+              "ViewState": "AgIAABoAAADAJodPOjEpwCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:42:19.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoubleList.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleList.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleList.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleList.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio2ListaDoble\\DoubleList.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAIAwwHEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:40:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\MainForm.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\MainForm.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\MainForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:16:18.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Actividad1TerremotoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-08-25T17:16:18.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Actividad2UniversidadForm.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Actividad2UniversidadForm.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Actividad2UniversidadForm.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Actividad2UniversidadForm.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Actividad2UniversidadForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwE4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:16:18.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actividad2UniversidadForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Actividad2UniversidadForm.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Actividad2UniversidadForm.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Maricadas de Cristian\\EstructuraDeDatosForm\\EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Actividad2UniversidadForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-08-25T17:16:25.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Asignatura.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Asignatura.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Asignatura.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Actividades\\Actividad2Universidad\\Asignatura.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:16:25.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Donation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:16:25.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Actividad1TerremotoForm.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Actividades\\Actividad1Terremoto\\Actividad1TerremotoForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvysAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:16:25.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\Node.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:16:25.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
+              "RelativeDocumentMoniker": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
+              "ToolTip": "D:\\Visual proyects\\Estructura-de-datos\\Estructura-de-datos\\Estructura-de-datos\\EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
+              "RelativeToolTip": "EstructuraDeDatosForm\\Ejercicios\\Ejercicio1Lista\\List.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAkwAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:16:25.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

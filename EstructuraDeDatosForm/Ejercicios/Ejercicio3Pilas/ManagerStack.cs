@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace EstructuraDeDatosForm.Ejercicios.Ejercicio3Pilas
 {
@@ -14,13 +15,12 @@ namespace EstructuraDeDatosForm.Ejercicios.Ejercicio3Pilas
         {
             s.Push(data);
         }
-
-        public override String ToString()
+        public override string ToString()
         {
-            String text = "";
+            string text = "";
             while (!s.isEmpty())
             {
-                Object data = s.Pop();
+                object data = s.Pop();
                 text = text + data + "\n";
                 aux.Push(data);
             }
@@ -34,9 +34,8 @@ namespace EstructuraDeDatosForm.Ejercicios.Ejercicio3Pilas
         {
             int size = 0;
             while (!s.isEmpty())
-            {
                 aux.Push(s.Pop());
-            }
+
             while (!aux.isEmpty())
             {
                 size++;
@@ -52,19 +51,34 @@ namespace EstructuraDeDatosForm.Ejercicios.Ejercicio3Pilas
             {
                 int number = (int)s.Pop();
                 if (number != x)
-                {
                     aux.Push(number);
-                }
                 else
-                {
                     resp = true;
-                }
             }
             while (!aux.isEmpty())
-            {
                 s.Push(aux.Pop());
-            }
+
             return resp;
+        }
+
+        public ManagerStack Range(int x, int y)
+        {
+            ManagerStack srange = new ManagerStack();
+            //llevamos la informacion a la pila auxiliar porque
+            //estamos trabajando con las posiciones
+            while (!s.isEmpty())
+                aux.Push(s.Pop());
+            //devolvmos operando
+            int cont = 0;
+            while (!aux.isEmpty())
+            {
+                int number = (int)aux.Pop();
+                cont++;
+                if (cont >= x && cont <= y)
+                    srange.Add(number);
+                s.Push(number);
+            }
+            return srange;
         }
     }
 }
