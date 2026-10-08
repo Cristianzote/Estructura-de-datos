@@ -1,4 +1,4 @@
-﻿/*
+﻿
 
 using EstructuraDeDatosForm.Ejercicios.Ejercicio3Pilas;
 
